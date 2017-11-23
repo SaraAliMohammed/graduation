@@ -1,6 +1,10 @@
 ÃHello
 
-function sum(num1,num2){
+
+
+
+function addNumbers(num1,num2){
+
 RETURN NUM1+NUM2;
 }
 
