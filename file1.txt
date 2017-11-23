@@ -7,3 +7,8 @@ RETURN NUM1+NUM2;
 function sayHello(){
 PRINT("HELLO");
 }
+
+
+function testFunction(){
+	print("dsds");
+}
